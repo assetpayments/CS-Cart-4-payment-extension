@@ -45,7 +45,7 @@ By default the module uses P (processed) status to mark successful payment and O
 * Откройте меню Add-ons -> Manage add-ons -> Browse all available add-ons
 * Найдите модуль AssetPayments payments и нажмите Install
 * Откройте меню Administration -> Payment methods
-* Нажмите синий клюс справа и добавьте новый метод оплаты 
+* Нажмите синий плюс справа и добавьте новый метод оплаты 
 * Настройте новый модуль
 * Основные настройки:
   * Name - Оплатить картой Visa/Mastercard (AssetPayments)
