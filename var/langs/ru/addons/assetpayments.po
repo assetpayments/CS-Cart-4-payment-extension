@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.9.3/addons/assetpayments.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2019-02-01 06:10\n"
+
+msgctxt "Addons::name::assetpayments"
+msgid "AssetPayments payments"
+msgstr "Платежи через AssetPayments"
+
+msgctxt "Addons::description::assetpayments"
+msgid "Lets you accept payments via AssetPayments."
+msgstr "Позволяет принимать платежи через AssetPayments."
+
+msgctxt "Languages::assetpayments.merchant_id"
+msgid "Merchant ID"
+msgstr "ID продавца"
+
+msgctxt "Languages::assetpayments.template_id"
+msgid "Terminal ID"
+msgstr "ID терминала"
+
+msgctxt "Languages::assetpayments.secret_key"
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+msgctxt "Languages::assetpayments.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "Оплата не удалось: [error_message]"
+
+msgctxt "Languages::assetpayments.short_notice"
+msgid "<a href=\"https://assetpayments.com\" target=\"_blank\">AssetPayments</a> is a global payment service provider, which works safely, drives merchants’ performance, and reduces a risk. AssetPayments understands the day-to-day realities and requirements of a modern eCommerce business so as to offer and build solutions that fit a wide range of businesses. AssetPayments helps you build stronger relationships with your buyers by streamlining the payment processes. <br /><br />Our advantages:<br />- Secure and fast<br />- Simple and easy to configure<br />- Flexible terms and conditions for different industries<br /><br /><strong><a href=\"https://assetpayments.com\" target=\"_blank\">Sign-up to Login and Pay with AssetPayments</a></strong>"
+msgstr "<a href=\"https://assetpayments.com\" target=\"_blank\">AssetPayments</a> — это мировой поставщик платёжных услуг, который работает безопасно, помогает продавцам улучшать показатели и сокращает риски. AssetPayments понимает насущные потребности современных eCommerce-предприятий и предлагает решения для широкого круга бизнесменов. Упрощая процесс оплаты, AssetPayments помогает укрепить отношения с покупателями. <br /><br />Наши преимущества:<br />- Безопасность и скорость<br />- Простота настройки<br />- Гибкие условия для разных отраслей<br /><br /><strong><a href=\"https://assetpayments.com\" target=\"_blank\">Регистрация для оплаты через AssetPayments</a></strong>"
+
