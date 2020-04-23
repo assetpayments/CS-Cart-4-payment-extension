@@ -22,15 +22,15 @@ msgstr "Позволяет принимать платежи через AssetPay
 
 msgctxt "Languages::assetpayments.merchant_id"
 msgid "Merchant ID"
-msgstr "ID продавца"
+msgstr "Asset Key"
 
 msgctxt "Languages::assetpayments.template_id"
 msgid "Terminal ID"
-msgstr "ID терминала"
+msgstr "ID шаблона"
 
 msgctxt "Languages::assetpayments.secret_key"
 msgid "Secret key"
-msgstr "Секретный ключ"
+msgstr "Secret Key"
 
 msgctxt "Languages::assetpayments.payment_failed"
 msgid "Payment failed: [error_message]"
