@@ -1,4 +1,4 @@
-## CS-Cart 4.9 payment extension
+## CS-Cart 4.х payment extension
 
 ### Installation
 
@@ -36,7 +36,7 @@ By default the module uses P (processed) status to mark successful payment and O
 * Look at the Status filed to find out the status letter (for example A)
 * Add this letter to the top of payment script (assetpayments.php)
 
-## Модуль оплаты CS-Cart 4.9
+## Модуль оплаты CS-Cart 4.х
 
 ### Установка
 
